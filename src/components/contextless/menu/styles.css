@@ -1,0 +1,15 @@
+.menu {
+  margin: 0.25rem;
+  color: white;
+  background-color: #49b3e6;
+  text-decoration: none;
+  border: 1px solid #49b3e6;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.menu:hover {
+  border-color: #49b3e6;
+  color: #49b3e6;
+  background-color: white;
+}
